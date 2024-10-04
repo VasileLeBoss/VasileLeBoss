@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Vasile</h1>
 <h3>A passionate Full-Stack developer from France</h3>
 
-- 🌱 I’m currently learning **ReactJS** and **NodeJS** ... and **JAVA**
+- 🌱 I’m currently learning **ReactJS** and **NodeJS** ... and **JAVA** 
 
 - 👨‍💻 All of my projects are available at [https://vasile-bugneac-eportfolio.onrender.com/](https://vasile-bugneac-eportfolio.onrender.com/)
 
