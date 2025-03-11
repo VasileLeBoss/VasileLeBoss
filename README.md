@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactJS** and **NodeJS** ... and **JAVA** 
 
-- 👨‍💻 All of my projects are available at [https://vasile-bugneac-eportfolio.onrender.com/](https://vasile-bugneac-eportfolio.onrender.com/)
+- 👨‍💻 All of my projects are available at [https://v-index.onrender.com/Dashboard](https://v-index.onrender.com/Dashboard)
 
 - 📫 How to reach me **vasile.bors.03@gmail.com**
 
